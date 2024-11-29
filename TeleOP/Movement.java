@@ -109,3 +109,7 @@ public class Movement extends OpMode
 
     }
 }
+
+
+// Discord @euxinian
+// Bagati si voi discordurile :)))
